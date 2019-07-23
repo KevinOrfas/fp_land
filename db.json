@@ -3,12 +3,12 @@
     {
       "id": 1,
       "type": "sneakers",
-      "price: "200"
+      "price": 200
     },
     {
       "id": 2,
       "type": "sneakers",
-      "price: "220"
+      "price": 220
     }
   ],
   "profile": {
