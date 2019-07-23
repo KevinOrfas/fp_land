@@ -1,2 +1,4 @@
-[{userId: 1, name: 'yolo, price: "200"}
-{userId: 2, name: 'sourtouki, price: "203"}]
+[
+  {"userId": 1, "name": "yolo", "price": "200"},
+  {"userId": 2, "name": "sourtouki", "price": "203"}
+]
